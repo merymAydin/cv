@@ -45,3 +45,19 @@
     display: flex;
     justify-content:center;
 }
+#left-column{
+    display: flexbox;
+    margin: 25px;
+    padding: 25px;
+}
+#right-top-column{
+    margin: 25px;
+    padding: 10px;
+}
+#right-bottom-column{
+    margin: 25px;
+    padding: 25px;
+}
+#footer{
+    position: fixed;
+}
