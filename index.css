@@ -41,3 +41,7 @@
 .job{
     color: #4f5251;
 }
+.footer-item-list{
+    display: flex;
+    justify-content:center;
+}
