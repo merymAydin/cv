@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container-fluid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.w3-row-padding{
+    padding: 10px;
+}
+#left-column{
+    padding: 10px;
+}
+.fa-solid fa-star-of-life{
+    color: turquoise
+}
+
+.fa-solid{
+    color: #009688;
+}
+.progressTag{
+    position: relative; 
+    width: 100%; 
+    max-width: 300px;
+}
+.item-list{
+    padding: 25px;
+    margin: 25px;
+    
+}
+.date{
+    color:#009688;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.job{
+    color: #4f5251;
+}
